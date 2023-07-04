@@ -6,8 +6,8 @@
 	<h1 style="color: violet; font-size: 40px;" align="center">Login Form</h1>
 <body>
 <center>
-	<h2>Welcome To Tomcat</h2>
-	<form>
+	<h2 align="center">Welcome To Tomcat</h2>
+	<form align="center">
 	<p>
 			<label>Username : <input type="text" /></label>
 		</p>
