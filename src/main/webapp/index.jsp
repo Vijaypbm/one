@@ -1,8 +1,28 @@
 <html>
+<head>
+	<title>login </title>
+</head>
 <body>
-	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
-	<h1 style="color: blue; font-size: 40px;" align="center">WE IMPLEMENTED CICD HERE</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">THIS IS OUR JENKINS PROJECT</h1>
+	<h1 style="color: violet; font-size: 40px;" align="center">login</h1>
+	
+
+
+<body>
+	<h2>Welcome To GFG</h2>
+	<form>
+	<p>
+			<label>Username : <input type="text" /></label>
+		</p>
+		<p>
+			<label>Password : <input type="password" /></label>
+		</p>
+		<p>
+			<button type="submit">Submit</button>
+		</p>
+	</form>
+</body>
+</html>
+
 	
 	
 	
