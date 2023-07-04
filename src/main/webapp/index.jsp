@@ -4,9 +4,6 @@
 </head>
 <body>
 	<h1 style="color: violet; font-size: 40px;" align="center">login</h1>
-	
-
-
 <body>
 	<h2>Welcome To GFG</h2>
 	<form>
