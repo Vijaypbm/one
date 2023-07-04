@@ -15,11 +15,16 @@
 			<label>Password : <input type="password" /></label>
 		</p>
 		<p>
-			<button type="submit">Submit</button>
+			<button type="submit" onclick="validate()">Submit</button>
 		</p>
 	</form>
 </center>
 </body>
+<script>
+	function validate(){
+		alert("hiii... hlo....");
+	}
+</script>
 </html>
 
 	
