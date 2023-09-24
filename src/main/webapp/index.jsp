@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>login </title>
+	<title>Login Form </title>
 </head>
 <body>
 	<h1 style="color: blue; font-size: 50px;" align="center">Login Form</h1>
